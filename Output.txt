@@ -1,7 +1,8 @@
 Clock Number 0 : Actor number 0 is ready to get the inputs so inputs get into the actor.
 Clock Number 0 : All the inputs are not ready to enter the actor number 1.
 Clock Number 0 : Actor number 1 is still free.
-Clock Number 0 : Actor number 2 is ready to get the inputs so inputs get into the actor.
+Clock Number 0 : All the inputs are not ready to enter the actor number 2.
+Clock Number 0 : Actor number 2 is still free.
 Clock Number 0 : All the inputs are not ready to enter the actor number 3.
 Clock Number 0 : Actor number 3 is still free.
 Clock Number 0 : All the inputs are not ready to enter the actor number 4.
@@ -11,8 +12,7 @@ Clock Number 1 : Actor number 0 is still busy and it can shoot in 2 clocks later
 Clock Number 1 : All the inputs are not ready to enter the actor number 1.
 Clock Number 1 : Actor number 1 is still free.
 Clock Number 1 : All the inputs are not ready to enter the actor number 2.
-Clock Number 1 : Actor number 2 is still busy.
-Clock Number 1 : Actor number 2 is still busy and it can shoot in 1 clocks later.
+Clock Number 1 : Actor number 2 is still free.
 Clock Number 1 : All the inputs are not ready to enter the actor number 3.
 Clock Number 1 : Actor number 3 is still free.
 Clock Number 1 : All the inputs are not ready to enter the actor number 4.
@@ -22,10 +22,9 @@ Clock Number 2 : Actor number 0 is still busy and it can shoot in 1 clocks later
 Clock Number 2 : All the inputs are not ready to enter the actor number 1.
 Clock Number 2 : Actor number 1 is still free.
 Clock Number 2 : All the inputs are not ready to enter the actor number 2.
-Clock Number 2 : Actor number 2 is still busy.
-Clock Number 2 : All the inputs are not ready to enter the actor number 2.
-Clock Number 2 : Actor number 2shooted and now it is free.
-Clock Number 2 : Actor number 3 is ready to get the inputs so inputs get into the actor.
+Clock Number 2 : Actor number 2 is still free.
+Clock Number 2 : All the inputs are not ready to enter the actor number 3.
+Clock Number 2 : Actor number 3 is still free.
 Clock Number 2 : All the inputs are not ready to enter the actor number 4.
 Clock Number 2 : Actor number 4 is still free.
 Clock Number 3 : Actor number 0 is still busy.
@@ -35,8 +34,7 @@ Clock Number 3 : Actor number 1 is ready to get the inputs so inputs get into th
 Clock Number 3 : All the inputs are not ready to enter the actor number 2.
 Clock Number 3 : Actor number 2 is still free.
 Clock Number 3 : All the inputs are not ready to enter the actor number 3.
-Clock Number 3 : Actor number 3 is still busy.
-Clock Number 3 : Actor number 3 is still busy and it can shoot in 2 clocks later.
+Clock Number 3 : Actor number 3 is still free.
 Clock Number 3 : All the inputs are not ready to enter the actor number 4.
 Clock Number 3 : Actor number 4 is still free.
 Clock Number 4 : Actor number 0 is still busy.
@@ -47,8 +45,7 @@ Clock Number 4 : Actor number 1 is still busy and it can shoot in 3 clocks later
 Clock Number 4 : All the inputs are not ready to enter the actor number 2.
 Clock Number 4 : Actor number 2 is still free.
 Clock Number 4 : All the inputs are not ready to enter the actor number 3.
-Clock Number 4 : Actor number 3 is still busy.
-Clock Number 4 : Actor number 3 is still busy and it can shoot in 1 clocks later.
+Clock Number 4 : Actor number 3 is still free.
 Clock Number 4 : All the inputs are not ready to enter the actor number 4.
 Clock Number 4 : Actor number 4 is still free.
 Clock Number 5 : Actor number 0 is still busy.
@@ -59,9 +56,8 @@ Clock Number 5 : Actor number 1 is still busy and it can shoot in 2 clocks later
 Clock Number 5 : All the inputs are not ready to enter the actor number 2.
 Clock Number 5 : Actor number 2 is still free.
 Clock Number 5 : All the inputs are not ready to enter the actor number 3.
-Clock Number 5 : Actor number 3 is still busy.
-Clock Number 5 : All the inputs are not ready to enter the actor number 3.
-Clock Number 5 : Actor number 3shooted and now it is free.
+Clock Number 5 : Actor number 3 is still free.
+Clock Number 5 : All the inputs are not ready to enter the actor number 4.
 Clock Number 5 : Actor number 4 is still free.
 Clock Number 6 : Actor number 0 is still busy.
 Clock Number 6 : Actor number 0 is ready to get the inputs so inputs get into the actor.
@@ -570,3 +566,503 @@ Clock Number 49 : All the inputs are not ready to enter the actor number 3.
 Clock Number 49 : Actor number 3 is still free.
 Clock Number 49 : All the inputs are not ready to enter the actor number 4.
 Clock Number 49 : Actor number 4 is still free.
+Clock Number 50 : All the inputs are not ready to enter the actor number 0.
+Clock Number 50 : Actor number 0 is still free.
+Clock Number 50 : All the inputs are not ready to enter the actor number 1.
+Clock Number 50 : Actor number 1 is still free.
+Clock Number 50 : All the inputs are not ready to enter the actor number 2.
+Clock Number 50 : Actor number 2 is still free.
+Clock Number 50 : All the inputs are not ready to enter the actor number 3.
+Clock Number 50 : Actor number 3 is still free.
+Clock Number 50 : All the inputs are not ready to enter the actor number 4.
+Clock Number 50 : Actor number 4 is still free.
+Clock Number 51 : All the inputs are not ready to enter the actor number 0.
+Clock Number 51 : Actor number 0 is still free.
+Clock Number 51 : All the inputs are not ready to enter the actor number 1.
+Clock Number 51 : Actor number 1 is still free.
+Clock Number 51 : All the inputs are not ready to enter the actor number 2.
+Clock Number 51 : Actor number 2 is still free.
+Clock Number 51 : All the inputs are not ready to enter the actor number 3.
+Clock Number 51 : Actor number 3 is still free.
+Clock Number 51 : All the inputs are not ready to enter the actor number 4.
+Clock Number 51 : Actor number 4 is still free.
+Clock Number 52 : All the inputs are not ready to enter the actor number 0.
+Clock Number 52 : Actor number 0 is still free.
+Clock Number 52 : All the inputs are not ready to enter the actor number 1.
+Clock Number 52 : Actor number 1 is still free.
+Clock Number 52 : All the inputs are not ready to enter the actor number 2.
+Clock Number 52 : Actor number 2 is still free.
+Clock Number 52 : All the inputs are not ready to enter the actor number 3.
+Clock Number 52 : Actor number 3 is still free.
+Clock Number 52 : All the inputs are not ready to enter the actor number 4.
+Clock Number 52 : Actor number 4 is still free.
+Clock Number 53 : All the inputs are not ready to enter the actor number 0.
+Clock Number 53 : Actor number 0 is still free.
+Clock Number 53 : All the inputs are not ready to enter the actor number 1.
+Clock Number 53 : Actor number 1 is still free.
+Clock Number 53 : All the inputs are not ready to enter the actor number 2.
+Clock Number 53 : Actor number 2 is still free.
+Clock Number 53 : All the inputs are not ready to enter the actor number 3.
+Clock Number 53 : Actor number 3 is still free.
+Clock Number 53 : All the inputs are not ready to enter the actor number 4.
+Clock Number 53 : Actor number 4 is still free.
+Clock Number 54 : All the inputs are not ready to enter the actor number 0.
+Clock Number 54 : Actor number 0 is still free.
+Clock Number 54 : All the inputs are not ready to enter the actor number 1.
+Clock Number 54 : Actor number 1 is still free.
+Clock Number 54 : All the inputs are not ready to enter the actor number 2.
+Clock Number 54 : Actor number 2 is still free.
+Clock Number 54 : All the inputs are not ready to enter the actor number 3.
+Clock Number 54 : Actor number 3 is still free.
+Clock Number 54 : All the inputs are not ready to enter the actor number 4.
+Clock Number 54 : Actor number 4 is still free.
+Clock Number 55 : All the inputs are not ready to enter the actor number 0.
+Clock Number 55 : Actor number 0 is still free.
+Clock Number 55 : All the inputs are not ready to enter the actor number 1.
+Clock Number 55 : Actor number 1 is still free.
+Clock Number 55 : All the inputs are not ready to enter the actor number 2.
+Clock Number 55 : Actor number 2 is still free.
+Clock Number 55 : All the inputs are not ready to enter the actor number 3.
+Clock Number 55 : Actor number 3 is still free.
+Clock Number 55 : All the inputs are not ready to enter the actor number 4.
+Clock Number 55 : Actor number 4 is still free.
+Clock Number 56 : All the inputs are not ready to enter the actor number 0.
+Clock Number 56 : Actor number 0 is still free.
+Clock Number 56 : All the inputs are not ready to enter the actor number 1.
+Clock Number 56 : Actor number 1 is still free.
+Clock Number 56 : All the inputs are not ready to enter the actor number 2.
+Clock Number 56 : Actor number 2 is still free.
+Clock Number 56 : All the inputs are not ready to enter the actor number 3.
+Clock Number 56 : Actor number 3 is still free.
+Clock Number 56 : All the inputs are not ready to enter the actor number 4.
+Clock Number 56 : Actor number 4 is still free.
+Clock Number 57 : All the inputs are not ready to enter the actor number 0.
+Clock Number 57 : Actor number 0 is still free.
+Clock Number 57 : All the inputs are not ready to enter the actor number 1.
+Clock Number 57 : Actor number 1 is still free.
+Clock Number 57 : All the inputs are not ready to enter the actor number 2.
+Clock Number 57 : Actor number 2 is still free.
+Clock Number 57 : All the inputs are not ready to enter the actor number 3.
+Clock Number 57 : Actor number 3 is still free.
+Clock Number 57 : All the inputs are not ready to enter the actor number 4.
+Clock Number 57 : Actor number 4 is still free.
+Clock Number 58 : All the inputs are not ready to enter the actor number 0.
+Clock Number 58 : Actor number 0 is still free.
+Clock Number 58 : All the inputs are not ready to enter the actor number 1.
+Clock Number 58 : Actor number 1 is still free.
+Clock Number 58 : All the inputs are not ready to enter the actor number 2.
+Clock Number 58 : Actor number 2 is still free.
+Clock Number 58 : All the inputs are not ready to enter the actor number 3.
+Clock Number 58 : Actor number 3 is still free.
+Clock Number 58 : All the inputs are not ready to enter the actor number 4.
+Clock Number 58 : Actor number 4 is still free.
+Clock Number 59 : All the inputs are not ready to enter the actor number 0.
+Clock Number 59 : Actor number 0 is still free.
+Clock Number 59 : All the inputs are not ready to enter the actor number 1.
+Clock Number 59 : Actor number 1 is still free.
+Clock Number 59 : All the inputs are not ready to enter the actor number 2.
+Clock Number 59 : Actor number 2 is still free.
+Clock Number 59 : All the inputs are not ready to enter the actor number 3.
+Clock Number 59 : Actor number 3 is still free.
+Clock Number 59 : All the inputs are not ready to enter the actor number 4.
+Clock Number 59 : Actor number 4 is still free.
+Clock Number 60 : All the inputs are not ready to enter the actor number 0.
+Clock Number 60 : Actor number 0 is still free.
+Clock Number 60 : All the inputs are not ready to enter the actor number 1.
+Clock Number 60 : Actor number 1 is still free.
+Clock Number 60 : All the inputs are not ready to enter the actor number 2.
+Clock Number 60 : Actor number 2 is still free.
+Clock Number 60 : All the inputs are not ready to enter the actor number 3.
+Clock Number 60 : Actor number 3 is still free.
+Clock Number 60 : All the inputs are not ready to enter the actor number 4.
+Clock Number 60 : Actor number 4 is still free.
+Clock Number 61 : All the inputs are not ready to enter the actor number 0.
+Clock Number 61 : Actor number 0 is still free.
+Clock Number 61 : All the inputs are not ready to enter the actor number 1.
+Clock Number 61 : Actor number 1 is still free.
+Clock Number 61 : All the inputs are not ready to enter the actor number 2.
+Clock Number 61 : Actor number 2 is still free.
+Clock Number 61 : All the inputs are not ready to enter the actor number 3.
+Clock Number 61 : Actor number 3 is still free.
+Clock Number 61 : All the inputs are not ready to enter the actor number 4.
+Clock Number 61 : Actor number 4 is still free.
+Clock Number 62 : All the inputs are not ready to enter the actor number 0.
+Clock Number 62 : Actor number 0 is still free.
+Clock Number 62 : All the inputs are not ready to enter the actor number 1.
+Clock Number 62 : Actor number 1 is still free.
+Clock Number 62 : All the inputs are not ready to enter the actor number 2.
+Clock Number 62 : Actor number 2 is still free.
+Clock Number 62 : All the inputs are not ready to enter the actor number 3.
+Clock Number 62 : Actor number 3 is still free.
+Clock Number 62 : All the inputs are not ready to enter the actor number 4.
+Clock Number 62 : Actor number 4 is still free.
+Clock Number 63 : All the inputs are not ready to enter the actor number 0.
+Clock Number 63 : Actor number 0 is still free.
+Clock Number 63 : All the inputs are not ready to enter the actor number 1.
+Clock Number 63 : Actor number 1 is still free.
+Clock Number 63 : All the inputs are not ready to enter the actor number 2.
+Clock Number 63 : Actor number 2 is still free.
+Clock Number 63 : All the inputs are not ready to enter the actor number 3.
+Clock Number 63 : Actor number 3 is still free.
+Clock Number 63 : All the inputs are not ready to enter the actor number 4.
+Clock Number 63 : Actor number 4 is still free.
+Clock Number 64 : All the inputs are not ready to enter the actor number 0.
+Clock Number 64 : Actor number 0 is still free.
+Clock Number 64 : All the inputs are not ready to enter the actor number 1.
+Clock Number 64 : Actor number 1 is still free.
+Clock Number 64 : All the inputs are not ready to enter the actor number 2.
+Clock Number 64 : Actor number 2 is still free.
+Clock Number 64 : All the inputs are not ready to enter the actor number 3.
+Clock Number 64 : Actor number 3 is still free.
+Clock Number 64 : All the inputs are not ready to enter the actor number 4.
+Clock Number 64 : Actor number 4 is still free.
+Clock Number 65 : All the inputs are not ready to enter the actor number 0.
+Clock Number 65 : Actor number 0 is still free.
+Clock Number 65 : All the inputs are not ready to enter the actor number 1.
+Clock Number 65 : Actor number 1 is still free.
+Clock Number 65 : All the inputs are not ready to enter the actor number 2.
+Clock Number 65 : Actor number 2 is still free.
+Clock Number 65 : All the inputs are not ready to enter the actor number 3.
+Clock Number 65 : Actor number 3 is still free.
+Clock Number 65 : All the inputs are not ready to enter the actor number 4.
+Clock Number 65 : Actor number 4 is still free.
+Clock Number 66 : All the inputs are not ready to enter the actor number 0.
+Clock Number 66 : Actor number 0 is still free.
+Clock Number 66 : All the inputs are not ready to enter the actor number 1.
+Clock Number 66 : Actor number 1 is still free.
+Clock Number 66 : All the inputs are not ready to enter the actor number 2.
+Clock Number 66 : Actor number 2 is still free.
+Clock Number 66 : All the inputs are not ready to enter the actor number 3.
+Clock Number 66 : Actor number 3 is still free.
+Clock Number 66 : All the inputs are not ready to enter the actor number 4.
+Clock Number 66 : Actor number 4 is still free.
+Clock Number 67 : All the inputs are not ready to enter the actor number 0.
+Clock Number 67 : Actor number 0 is still free.
+Clock Number 67 : All the inputs are not ready to enter the actor number 1.
+Clock Number 67 : Actor number 1 is still free.
+Clock Number 67 : All the inputs are not ready to enter the actor number 2.
+Clock Number 67 : Actor number 2 is still free.
+Clock Number 67 : All the inputs are not ready to enter the actor number 3.
+Clock Number 67 : Actor number 3 is still free.
+Clock Number 67 : All the inputs are not ready to enter the actor number 4.
+Clock Number 67 : Actor number 4 is still free.
+Clock Number 68 : All the inputs are not ready to enter the actor number 0.
+Clock Number 68 : Actor number 0 is still free.
+Clock Number 68 : All the inputs are not ready to enter the actor number 1.
+Clock Number 68 : Actor number 1 is still free.
+Clock Number 68 : All the inputs are not ready to enter the actor number 2.
+Clock Number 68 : Actor number 2 is still free.
+Clock Number 68 : All the inputs are not ready to enter the actor number 3.
+Clock Number 68 : Actor number 3 is still free.
+Clock Number 68 : All the inputs are not ready to enter the actor number 4.
+Clock Number 68 : Actor number 4 is still free.
+Clock Number 69 : All the inputs are not ready to enter the actor number 0.
+Clock Number 69 : Actor number 0 is still free.
+Clock Number 69 : All the inputs are not ready to enter the actor number 1.
+Clock Number 69 : Actor number 1 is still free.
+Clock Number 69 : All the inputs are not ready to enter the actor number 2.
+Clock Number 69 : Actor number 2 is still free.
+Clock Number 69 : All the inputs are not ready to enter the actor number 3.
+Clock Number 69 : Actor number 3 is still free.
+Clock Number 69 : All the inputs are not ready to enter the actor number 4.
+Clock Number 69 : Actor number 4 is still free.
+Clock Number 70 : All the inputs are not ready to enter the actor number 0.
+Clock Number 70 : Actor number 0 is still free.
+Clock Number 70 : All the inputs are not ready to enter the actor number 1.
+Clock Number 70 : Actor number 1 is still free.
+Clock Number 70 : All the inputs are not ready to enter the actor number 2.
+Clock Number 70 : Actor number 2 is still free.
+Clock Number 70 : All the inputs are not ready to enter the actor number 3.
+Clock Number 70 : Actor number 3 is still free.
+Clock Number 70 : All the inputs are not ready to enter the actor number 4.
+Clock Number 70 : Actor number 4 is still free.
+Clock Number 71 : All the inputs are not ready to enter the actor number 0.
+Clock Number 71 : Actor number 0 is still free.
+Clock Number 71 : All the inputs are not ready to enter the actor number 1.
+Clock Number 71 : Actor number 1 is still free.
+Clock Number 71 : All the inputs are not ready to enter the actor number 2.
+Clock Number 71 : Actor number 2 is still free.
+Clock Number 71 : All the inputs are not ready to enter the actor number 3.
+Clock Number 71 : Actor number 3 is still free.
+Clock Number 71 : All the inputs are not ready to enter the actor number 4.
+Clock Number 71 : Actor number 4 is still free.
+Clock Number 72 : All the inputs are not ready to enter the actor number 0.
+Clock Number 72 : Actor number 0 is still free.
+Clock Number 72 : All the inputs are not ready to enter the actor number 1.
+Clock Number 72 : Actor number 1 is still free.
+Clock Number 72 : All the inputs are not ready to enter the actor number 2.
+Clock Number 72 : Actor number 2 is still free.
+Clock Number 72 : All the inputs are not ready to enter the actor number 3.
+Clock Number 72 : Actor number 3 is still free.
+Clock Number 72 : All the inputs are not ready to enter the actor number 4.
+Clock Number 72 : Actor number 4 is still free.
+Clock Number 73 : All the inputs are not ready to enter the actor number 0.
+Clock Number 73 : Actor number 0 is still free.
+Clock Number 73 : All the inputs are not ready to enter the actor number 1.
+Clock Number 73 : Actor number 1 is still free.
+Clock Number 73 : All the inputs are not ready to enter the actor number 2.
+Clock Number 73 : Actor number 2 is still free.
+Clock Number 73 : All the inputs are not ready to enter the actor number 3.
+Clock Number 73 : Actor number 3 is still free.
+Clock Number 73 : All the inputs are not ready to enter the actor number 4.
+Clock Number 73 : Actor number 4 is still free.
+Clock Number 74 : All the inputs are not ready to enter the actor number 0.
+Clock Number 74 : Actor number 0 is still free.
+Clock Number 74 : All the inputs are not ready to enter the actor number 1.
+Clock Number 74 : Actor number 1 is still free.
+Clock Number 74 : All the inputs are not ready to enter the actor number 2.
+Clock Number 74 : Actor number 2 is still free.
+Clock Number 74 : All the inputs are not ready to enter the actor number 3.
+Clock Number 74 : Actor number 3 is still free.
+Clock Number 74 : All the inputs are not ready to enter the actor number 4.
+Clock Number 74 : Actor number 4 is still free.
+Clock Number 75 : All the inputs are not ready to enter the actor number 0.
+Clock Number 75 : Actor number 0 is still free.
+Clock Number 75 : All the inputs are not ready to enter the actor number 1.
+Clock Number 75 : Actor number 1 is still free.
+Clock Number 75 : All the inputs are not ready to enter the actor number 2.
+Clock Number 75 : Actor number 2 is still free.
+Clock Number 75 : All the inputs are not ready to enter the actor number 3.
+Clock Number 75 : Actor number 3 is still free.
+Clock Number 75 : All the inputs are not ready to enter the actor number 4.
+Clock Number 75 : Actor number 4 is still free.
+Clock Number 76 : All the inputs are not ready to enter the actor number 0.
+Clock Number 76 : Actor number 0 is still free.
+Clock Number 76 : All the inputs are not ready to enter the actor number 1.
+Clock Number 76 : Actor number 1 is still free.
+Clock Number 76 : All the inputs are not ready to enter the actor number 2.
+Clock Number 76 : Actor number 2 is still free.
+Clock Number 76 : All the inputs are not ready to enter the actor number 3.
+Clock Number 76 : Actor number 3 is still free.
+Clock Number 76 : All the inputs are not ready to enter the actor number 4.
+Clock Number 76 : Actor number 4 is still free.
+Clock Number 77 : All the inputs are not ready to enter the actor number 0.
+Clock Number 77 : Actor number 0 is still free.
+Clock Number 77 : All the inputs are not ready to enter the actor number 1.
+Clock Number 77 : Actor number 1 is still free.
+Clock Number 77 : All the inputs are not ready to enter the actor number 2.
+Clock Number 77 : Actor number 2 is still free.
+Clock Number 77 : All the inputs are not ready to enter the actor number 3.
+Clock Number 77 : Actor number 3 is still free.
+Clock Number 77 : All the inputs are not ready to enter the actor number 4.
+Clock Number 77 : Actor number 4 is still free.
+Clock Number 78 : All the inputs are not ready to enter the actor number 0.
+Clock Number 78 : Actor number 0 is still free.
+Clock Number 78 : All the inputs are not ready to enter the actor number 1.
+Clock Number 78 : Actor number 1 is still free.
+Clock Number 78 : All the inputs are not ready to enter the actor number 2.
+Clock Number 78 : Actor number 2 is still free.
+Clock Number 78 : All the inputs are not ready to enter the actor number 3.
+Clock Number 78 : Actor number 3 is still free.
+Clock Number 78 : All the inputs are not ready to enter the actor number 4.
+Clock Number 78 : Actor number 4 is still free.
+Clock Number 79 : All the inputs are not ready to enter the actor number 0.
+Clock Number 79 : Actor number 0 is still free.
+Clock Number 79 : All the inputs are not ready to enter the actor number 1.
+Clock Number 79 : Actor number 1 is still free.
+Clock Number 79 : All the inputs are not ready to enter the actor number 2.
+Clock Number 79 : Actor number 2 is still free.
+Clock Number 79 : All the inputs are not ready to enter the actor number 3.
+Clock Number 79 : Actor number 3 is still free.
+Clock Number 79 : All the inputs are not ready to enter the actor number 4.
+Clock Number 79 : Actor number 4 is still free.
+Clock Number 80 : All the inputs are not ready to enter the actor number 0.
+Clock Number 80 : Actor number 0 is still free.
+Clock Number 80 : All the inputs are not ready to enter the actor number 1.
+Clock Number 80 : Actor number 1 is still free.
+Clock Number 80 : All the inputs are not ready to enter the actor number 2.
+Clock Number 80 : Actor number 2 is still free.
+Clock Number 80 : All the inputs are not ready to enter the actor number 3.
+Clock Number 80 : Actor number 3 is still free.
+Clock Number 80 : All the inputs are not ready to enter the actor number 4.
+Clock Number 80 : Actor number 4 is still free.
+Clock Number 81 : All the inputs are not ready to enter the actor number 0.
+Clock Number 81 : Actor number 0 is still free.
+Clock Number 81 : All the inputs are not ready to enter the actor number 1.
+Clock Number 81 : Actor number 1 is still free.
+Clock Number 81 : All the inputs are not ready to enter the actor number 2.
+Clock Number 81 : Actor number 2 is still free.
+Clock Number 81 : All the inputs are not ready to enter the actor number 3.
+Clock Number 81 : Actor number 3 is still free.
+Clock Number 81 : All the inputs are not ready to enter the actor number 4.
+Clock Number 81 : Actor number 4 is still free.
+Clock Number 82 : All the inputs are not ready to enter the actor number 0.
+Clock Number 82 : Actor number 0 is still free.
+Clock Number 82 : All the inputs are not ready to enter the actor number 1.
+Clock Number 82 : Actor number 1 is still free.
+Clock Number 82 : All the inputs are not ready to enter the actor number 2.
+Clock Number 82 : Actor number 2 is still free.
+Clock Number 82 : All the inputs are not ready to enter the actor number 3.
+Clock Number 82 : Actor number 3 is still free.
+Clock Number 82 : All the inputs are not ready to enter the actor number 4.
+Clock Number 82 : Actor number 4 is still free.
+Clock Number 83 : All the inputs are not ready to enter the actor number 0.
+Clock Number 83 : Actor number 0 is still free.
+Clock Number 83 : All the inputs are not ready to enter the actor number 1.
+Clock Number 83 : Actor number 1 is still free.
+Clock Number 83 : All the inputs are not ready to enter the actor number 2.
+Clock Number 83 : Actor number 2 is still free.
+Clock Number 83 : All the inputs are not ready to enter the actor number 3.
+Clock Number 83 : Actor number 3 is still free.
+Clock Number 83 : All the inputs are not ready to enter the actor number 4.
+Clock Number 83 : Actor number 4 is still free.
+Clock Number 84 : All the inputs are not ready to enter the actor number 0.
+Clock Number 84 : Actor number 0 is still free.
+Clock Number 84 : All the inputs are not ready to enter the actor number 1.
+Clock Number 84 : Actor number 1 is still free.
+Clock Number 84 : All the inputs are not ready to enter the actor number 2.
+Clock Number 84 : Actor number 2 is still free.
+Clock Number 84 : All the inputs are not ready to enter the actor number 3.
+Clock Number 84 : Actor number 3 is still free.
+Clock Number 84 : All the inputs are not ready to enter the actor number 4.
+Clock Number 84 : Actor number 4 is still free.
+Clock Number 85 : All the inputs are not ready to enter the actor number 0.
+Clock Number 85 : Actor number 0 is still free.
+Clock Number 85 : All the inputs are not ready to enter the actor number 1.
+Clock Number 85 : Actor number 1 is still free.
+Clock Number 85 : All the inputs are not ready to enter the actor number 2.
+Clock Number 85 : Actor number 2 is still free.
+Clock Number 85 : All the inputs are not ready to enter the actor number 3.
+Clock Number 85 : Actor number 3 is still free.
+Clock Number 85 : All the inputs are not ready to enter the actor number 4.
+Clock Number 85 : Actor number 4 is still free.
+Clock Number 86 : All the inputs are not ready to enter the actor number 0.
+Clock Number 86 : Actor number 0 is still free.
+Clock Number 86 : All the inputs are not ready to enter the actor number 1.
+Clock Number 86 : Actor number 1 is still free.
+Clock Number 86 : All the inputs are not ready to enter the actor number 2.
+Clock Number 86 : Actor number 2 is still free.
+Clock Number 86 : All the inputs are not ready to enter the actor number 3.
+Clock Number 86 : Actor number 3 is still free.
+Clock Number 86 : All the inputs are not ready to enter the actor number 4.
+Clock Number 86 : Actor number 4 is still free.
+Clock Number 87 : All the inputs are not ready to enter the actor number 0.
+Clock Number 87 : Actor number 0 is still free.
+Clock Number 87 : All the inputs are not ready to enter the actor number 1.
+Clock Number 87 : Actor number 1 is still free.
+Clock Number 87 : All the inputs are not ready to enter the actor number 2.
+Clock Number 87 : Actor number 2 is still free.
+Clock Number 87 : All the inputs are not ready to enter the actor number 3.
+Clock Number 87 : Actor number 3 is still free.
+Clock Number 87 : All the inputs are not ready to enter the actor number 4.
+Clock Number 87 : Actor number 4 is still free.
+Clock Number 88 : All the inputs are not ready to enter the actor number 0.
+Clock Number 88 : Actor number 0 is still free.
+Clock Number 88 : All the inputs are not ready to enter the actor number 1.
+Clock Number 88 : Actor number 1 is still free.
+Clock Number 88 : All the inputs are not ready to enter the actor number 2.
+Clock Number 88 : Actor number 2 is still free.
+Clock Number 88 : All the inputs are not ready to enter the actor number 3.
+Clock Number 88 : Actor number 3 is still free.
+Clock Number 88 : All the inputs are not ready to enter the actor number 4.
+Clock Number 88 : Actor number 4 is still free.
+Clock Number 89 : All the inputs are not ready to enter the actor number 0.
+Clock Number 89 : Actor number 0 is still free.
+Clock Number 89 : All the inputs are not ready to enter the actor number 1.
+Clock Number 89 : Actor number 1 is still free.
+Clock Number 89 : All the inputs are not ready to enter the actor number 2.
+Clock Number 89 : Actor number 2 is still free.
+Clock Number 89 : All the inputs are not ready to enter the actor number 3.
+Clock Number 89 : Actor number 3 is still free.
+Clock Number 89 : All the inputs are not ready to enter the actor number 4.
+Clock Number 89 : Actor number 4 is still free.
+Clock Number 90 : All the inputs are not ready to enter the actor number 0.
+Clock Number 90 : Actor number 0 is still free.
+Clock Number 90 : All the inputs are not ready to enter the actor number 1.
+Clock Number 90 : Actor number 1 is still free.
+Clock Number 90 : All the inputs are not ready to enter the actor number 2.
+Clock Number 90 : Actor number 2 is still free.
+Clock Number 90 : All the inputs are not ready to enter the actor number 3.
+Clock Number 90 : Actor number 3 is still free.
+Clock Number 90 : All the inputs are not ready to enter the actor number 4.
+Clock Number 90 : Actor number 4 is still free.
+Clock Number 91 : All the inputs are not ready to enter the actor number 0.
+Clock Number 91 : Actor number 0 is still free.
+Clock Number 91 : All the inputs are not ready to enter the actor number 1.
+Clock Number 91 : Actor number 1 is still free.
+Clock Number 91 : All the inputs are not ready to enter the actor number 2.
+Clock Number 91 : Actor number 2 is still free.
+Clock Number 91 : All the inputs are not ready to enter the actor number 3.
+Clock Number 91 : Actor number 3 is still free.
+Clock Number 91 : All the inputs are not ready to enter the actor number 4.
+Clock Number 91 : Actor number 4 is still free.
+Clock Number 92 : All the inputs are not ready to enter the actor number 0.
+Clock Number 92 : Actor number 0 is still free.
+Clock Number 92 : All the inputs are not ready to enter the actor number 1.
+Clock Number 92 : Actor number 1 is still free.
+Clock Number 92 : All the inputs are not ready to enter the actor number 2.
+Clock Number 92 : Actor number 2 is still free.
+Clock Number 92 : All the inputs are not ready to enter the actor number 3.
+Clock Number 92 : Actor number 3 is still free.
+Clock Number 92 : All the inputs are not ready to enter the actor number 4.
+Clock Number 92 : Actor number 4 is still free.
+Clock Number 93 : All the inputs are not ready to enter the actor number 0.
+Clock Number 93 : Actor number 0 is still free.
+Clock Number 93 : All the inputs are not ready to enter the actor number 1.
+Clock Number 93 : Actor number 1 is still free.
+Clock Number 93 : All the inputs are not ready to enter the actor number 2.
+Clock Number 93 : Actor number 2 is still free.
+Clock Number 93 : All the inputs are not ready to enter the actor number 3.
+Clock Number 93 : Actor number 3 is still free.
+Clock Number 93 : All the inputs are not ready to enter the actor number 4.
+Clock Number 93 : Actor number 4 is still free.
+Clock Number 94 : All the inputs are not ready to enter the actor number 0.
+Clock Number 94 : Actor number 0 is still free.
+Clock Number 94 : All the inputs are not ready to enter the actor number 1.
+Clock Number 94 : Actor number 1 is still free.
+Clock Number 94 : All the inputs are not ready to enter the actor number 2.
+Clock Number 94 : Actor number 2 is still free.
+Clock Number 94 : All the inputs are not ready to enter the actor number 3.
+Clock Number 94 : Actor number 3 is still free.
+Clock Number 94 : All the inputs are not ready to enter the actor number 4.
+Clock Number 94 : Actor number 4 is still free.
+Clock Number 95 : All the inputs are not ready to enter the actor number 0.
+Clock Number 95 : Actor number 0 is still free.
+Clock Number 95 : All the inputs are not ready to enter the actor number 1.
+Clock Number 95 : Actor number 1 is still free.
+Clock Number 95 : All the inputs are not ready to enter the actor number 2.
+Clock Number 95 : Actor number 2 is still free.
+Clock Number 95 : All the inputs are not ready to enter the actor number 3.
+Clock Number 95 : Actor number 3 is still free.
+Clock Number 95 : All the inputs are not ready to enter the actor number 4.
+Clock Number 95 : Actor number 4 is still free.
+Clock Number 96 : All the inputs are not ready to enter the actor number 0.
+Clock Number 96 : Actor number 0 is still free.
+Clock Number 96 : All the inputs are not ready to enter the actor number 1.
+Clock Number 96 : Actor number 1 is still free.
+Clock Number 96 : All the inputs are not ready to enter the actor number 2.
+Clock Number 96 : Actor number 2 is still free.
+Clock Number 96 : All the inputs are not ready to enter the actor number 3.
+Clock Number 96 : Actor number 3 is still free.
+Clock Number 96 : All the inputs are not ready to enter the actor number 4.
+Clock Number 96 : Actor number 4 is still free.
+Clock Number 97 : All the inputs are not ready to enter the actor number 0.
+Clock Number 97 : Actor number 0 is still free.
+Clock Number 97 : All the inputs are not ready to enter the actor number 1.
+Clock Number 97 : Actor number 1 is still free.
+Clock Number 97 : All the inputs are not ready to enter the actor number 2.
+Clock Number 97 : Actor number 2 is still free.
+Clock Number 97 : All the inputs are not ready to enter the actor number 3.
+Clock Number 97 : Actor number 3 is still free.
+Clock Number 97 : All the inputs are not ready to enter the actor number 4.
+Clock Number 97 : Actor number 4 is still free.
+Clock Number 98 : All the inputs are not ready to enter the actor number 0.
+Clock Number 98 : Actor number 0 is still free.
+Clock Number 98 : All the inputs are not ready to enter the actor number 1.
+Clock Number 98 : Actor number 1 is still free.
+Clock Number 98 : All the inputs are not ready to enter the actor number 2.
+Clock Number 98 : Actor number 2 is still free.
+Clock Number 98 : All the inputs are not ready to enter the actor number 3.
+Clock Number 98 : Actor number 3 is still free.
+Clock Number 98 : All the inputs are not ready to enter the actor number 4.
+Clock Number 98 : Actor number 4 is still free.
+Clock Number 99 : All the inputs are not ready to enter the actor number 0.
+Clock Number 99 : Actor number 0 is still free.
+Clock Number 99 : All the inputs are not ready to enter the actor number 1.
+Clock Number 99 : Actor number 1 is still free.
+Clock Number 99 : All the inputs are not ready to enter the actor number 2.
+Clock Number 99 : Actor number 2 is still free.
+Clock Number 99 : All the inputs are not ready to enter the actor number 3.
+Clock Number 99 : Actor number 3 is still free.
+Clock Number 99 : All the inputs are not ready to enter the actor number 4.
+Clock Number 99 : Actor number 4 is still free.
